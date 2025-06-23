@@ -32,10 +32,17 @@
 
  # Tools & Tech
 -Arduino Nano (ESP32 Microcontroller)
+
 -BMP388 barometric pressure reader
+
 -SD card logging module
+
 -MG90S Servos
+
 -Fusion 360 + Tinkercad
+
 -Creality Ender 3 V3 SE
+
 -DJI Air 3 + Insta360 GO 3S
+
 -Pinecil soldering iron

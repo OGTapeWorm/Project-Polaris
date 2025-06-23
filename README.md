@@ -9,25 +9,25 @@
 -Develop servo based parachute deployment
 -Design future versions with airbreak style descent control
 
-[Stage            | Objective]
---------          | 
-Prototype v1      | Assemble and launch base rocket
-Done              |
-                  |
-Avionics v1       | Solder and program sensor + logger
-In Progress       |
-                  |
-Recovery System   | Test servo deployment system
-In Progress       |
-                  |
-Data Analysis     | Review logged data, refine flight path
-Next              |
-                  |
-Modular Design    | Refine resusable body & payload designs
-Next              |
-                  |
-Level 1 Rocketry  | Achieve **Tripoli L1 Certification**
-Upcoming          |
+|  Stage            | Objective                            |
+--------          |                                        |
+Prototype v1      | Assemble and launch base rocket        |
+Done              |                                        |
+                  |                                        |
+Avionics v1       | Solder and program sensor + logger     |
+In Progress       |                                        |
+                  |                                        |
+Recovery System   | Test servo deployment system           |
+In Progress       |                                        |
+                  |                                        |
+Data Analysis     | Review logged data, refine flight path |
+Next              |                                        |
+                  |                                        |
+Modular Design    | Refine resusable body & payload design |
+Next              |                                        |
+                  |                                        |
+Level 1 Rocketry  | Achieve **Tripoli L1 Certification**   |
+Upcoming          |                                        |
 
 
  # Tools & Tech

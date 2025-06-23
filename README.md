@@ -2,14 +2,14 @@
 
 **Project Polaris** is an ameteur rocketry initiative focused on engineering high-performance model rockets with custom avionics, data logging and modular design systems. My project serves as an entry point into aerospace, electronics and embedded systems with the goal of leveling up from C class motors to Tripoli Level 1 and beyond!
 
-  #Current Focus
+# Current Focus
 -Build and launch **Polaris V1**
 -Intergrate BMP388 for barometric altitude reading
 -SD module to log sensor data
 -Develop servo based parachute deployment
 -Design future versions with airbreak style descent control
 
-|Stage            | Objective
+[Stage            | Objective]
 --------          | 
 Prototype v1      | Assemble and launch base rocket
 Done              |
@@ -30,7 +30,7 @@ Level 1 Rocketry  | Achieve **Tripoli L1 Certification**
 Upcoming          |
 
 
-  Tools & Tech
+ # Tools & Tech
 -Arduino Nano (ESP32 Microcontroller)
 -BMP388 barometric pressure reader
 -SD card logging module
